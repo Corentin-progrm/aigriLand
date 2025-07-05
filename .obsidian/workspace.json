@@ -4,54 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "29e4042085206603",
+        "id": "bb8fb4b247b3ff99",
         "type": "tabs",
         "children": [
           {
-            "id": "e9963fa2c3f6d685",
+            "id": "d8a8e141e71c78e0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "note corentin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "37775042bfc7754f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "note olivier.md",
-                "bFile": "note olivier.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: note olivier"
-            }
-          },
-          {
-            "id": "c0bb9efe87990bbd",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "note corentin"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0bb9efe87990bbd",
+  "active": "d8a8e141e71c78e0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "note olivier.md",
