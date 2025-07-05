@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "29e4042085206603",
+        "id": "012a204e27da2237",
         "type": "tabs",
         "children": [
           {
-            "id": "e9963fa2c3f6d685",
+            "id": "18ba4b140a150cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note olivier.md",
+                "file": "note corentin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note olivier"
+              "title": "note corentin"
             }
           }
         ]
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "2e4dd481c545326d",
+            "id": "98caabdc30e906dc",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9963fa2c3f6d685",
+  "active": "18ba4b140a150cdc",
   "lastOpenFiles": [
-    "note corentin.md",
     "note olivier.md",
     "readme.md",
-    "conflict-files-obsidian-git.md",
+    "note corentin.md",
     "Welcome.md"
   ]
 }
