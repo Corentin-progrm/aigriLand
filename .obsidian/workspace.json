@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "note olivier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "note olivier"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "e9963fa2c3f6d685",
   "lastOpenFiles": [
+    "note corentin.md",
+    "note olivier.md",
     "readme.md",
     "conflict-files-obsidian-git.md",
     "Welcome.md"
