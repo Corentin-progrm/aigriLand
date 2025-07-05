@@ -7,4 +7,8 @@ Vive la poutine test
 
 attention il va y avoir des probleme 
 
+<<<<<<< HEAD
 pizzzzzzzzzzzzzzzzzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+CA VA PETER
+>>>>>>> origin/main
