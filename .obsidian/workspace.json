@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "012a204e27da2237",
+        "id": "29e4042085206603",
         "type": "tabs",
         "children": [
           {
-            "id": "18ba4b140a150cdc",
+            "id": "e9963fa2c3f6d685",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "note olivier.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "note olivier"
             }
           }
         ]
@@ -180,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18ba4b140a150cdc",
+  "active": "e9963fa2c3f6d685",
   "lastOpenFiles": [
+    "note corentin.md",
+    "note olivier.md",
     "readme.md",
     "conflict-files-obsidian-git.md",
     "Welcome.md"
