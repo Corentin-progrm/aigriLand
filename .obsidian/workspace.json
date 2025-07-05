@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "724a73041f479c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb8fb4b247b3ff99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a8e141e71c78e0",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62b3c01eaceb426c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a36e20d16908d11c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6019c78f1821f085",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "252197b0119edffc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec7fb8c20e4251f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "138951b38e29f4ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d25e0b9f9f3a74af",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e9006dff5b75073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f87f9c46ad60d5f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for readme"
+            }
+          },
+          {
+            "id": "e6d2464678c23ec1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from readme"
+            }
+          },
+          {
+            "id": "3042ec8940a7394b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d7385de12e779d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readme"
+            }
+          },
+          {
+            "id": "2e4dd481c545326d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "2e4dd481c545326d",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "fichier 1/bite.md",
+    "~$le classeur de la vie.xlsx",
+    "le classeur de la vie 1.xlsx",
+    "2025-07-05.md",
+    "le classeur de la vie.xlsx",
+    "Untitled.canvas",
+    "readme.md",
+    "note olivier.md",
+    "fichier 1",
+    "note corentin.md",
+    "Welcome.md"
+  ]
+}
