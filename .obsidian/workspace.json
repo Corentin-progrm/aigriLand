@@ -20,24 +20,8 @@
               "icon": "lucide-file",
               "title": "readme"
             }
-          },
-          {
-            "id": "db8a8581497e6daf",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "readme.md",
-                "bFile": "readme.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: readme"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db8a8581497e6daf",
+  "active": "18ba4b140a150cdc",
   "lastOpenFiles": [
     "readme.md",
     "conflict-files-obsidian-git.md",
