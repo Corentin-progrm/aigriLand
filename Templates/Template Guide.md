@@ -82,5 +82,12 @@ Cela peut être important pour l’historique.
 
 Enfin, une fois votre guide terminé, **n’oubliez pas de faire un push vers le serveur pour bien sauvegarder votre travail.**
 
+
+---
+## Ressources utiles
+
+- [Loi d’Ohm – Wikipédia](https://fr.wikipedia.org/wiki/Loi_d%27Ohm)
+- [Code des couleurs des résistances (outil)](https://www.digikey.fr/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
+
 ---
 **Nom de l’auteur – Date**
