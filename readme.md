@@ -13,3 +13,7 @@ CA VA PETER
 
 kniugiuwnvdijn
 
+```dataview table time-played, length, rating from "games" sort rating desc ```
+
+
+
