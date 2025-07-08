@@ -2,6 +2,7 @@
 Ce document fait partie d'une série de notes sur les bases de l’électronique. L’objectif est d’expliquer de manière claire et structurée les composants essentiels, leur rôle, leur fonctionnement, et comment les utiliser dans des projets concrets.  
 Ici, on se penche sur **les résistances**, un des composants les plus courants en électronique.
 
+
 ---
 ## Partie théorique
 
