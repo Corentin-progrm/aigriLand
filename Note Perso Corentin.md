@@ -7,6 +7,7 @@ cree une base de donnner avec les info perso des membre pour faciliter les doc a
 comandite ST :
 Toulouse pas de numero
 Tour : rappeler a 9h et demander service communication
+tour : rappel fait, envoyer un mail q ingrid.rebout@st.com expliauer le contexct  et demander des produit prescis
 Grnoble pas de reponse
 Rousset : reponse mais pas reussi a avoir le service come essaer de rappler
 toulon : pas de num
