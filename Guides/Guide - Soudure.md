@@ -1,8 +1,11 @@
-# Titre : Guide - Nom du Guide
-
 ## Introduction
 
-Explication du contexte dans lequel le guide va être utilisé.
+Ce guide vise a expliquer le plus clairement possible comment apprendre aouder. 
+
+Si vous venez dy cegep il est largement possible que vous n
+
+Meme si vous devenez Ingeneiur Electriaue, savoir ouder doit etre une competence importqante a avoir, car il peut vous arrivez regulierement de faire des modigifcation de carte prototype et vous devez savoir faire ca rapidemnty et efficacmenet.
+
 
 
 **Historique de Version**
