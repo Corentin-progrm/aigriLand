@@ -1,4 +1,4 @@
-# Titre : Fondamentaux — Nom 
+# Titre : Fondamentaux - Nom 
 
 ## Introduction
 
@@ -20,12 +20,17 @@ avec :
 
 - $U$ : tension aux bornes de la résistance (en volts, V)  
 - $I$ : intensité du courant traversant la résistance (en ampères, A)  
-- $R$ : valeur de la résistance (en ohms, $\Omega$)
+- $R$ : valeur de la résistance (en ohms, Ω)
 
-### Types de résistances
-- Résistances fixes (axiales, CMS)
-- Résistances variables (potentiomètres, trimmers)
-- Résistances de puissance, résistances de précision
+---
+## Parametres a regarder
+
+Liste des parametre important a regarder pour choisir ce composant. 
+
+| Prametre Name  | Description            | Valeur typique |
+| -------------- | ---------------------- | -------------- |
+| Package / Case | Dimension du composant | 0603           |
+|                |                        |                |
 
 ---
 ## Exemple pratique
@@ -42,7 +47,7 @@ $$
 R = \frac{5V - 2V}{0.02A} = 150\,\Omega
 $$
 
-> 💡 Il faut choisir une résistance de **150 Ω**. La plus proche norme E12 serait 150 Ω ou 180 Ω.
+> POur une luminositer classiaue on vise un courrant souhaiter de 5mA.
 
 ---
 ## Intégration dans Altium Designer
