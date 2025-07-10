@@ -17,7 +17,7 @@ Explication du contexte dans lequel le guide va être utilisé.
 
 | Version | Auteur           | Date       | Description      |
 | ------- | ---------------- | ---------- | ---------------- |
-| 1       | Corentin Coueron | 2025-07-09 | Version Initiale |
+| 1       | Corentin Coueron | XXXX-XX-XX | Version Initiale |
 |         |                  |            |                  |
 
 **Materiel Requis :**
