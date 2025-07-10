@@ -14,3 +14,11 @@ toulon : pas de num
 sophia antipolis : lec mec a la recption est un con et il faut envoyer u mail avec ce qu<on veux a l4adresse mail sophia.reception@st.com
 Paris : envoyer un mail a reception.paris@st.com
 grand ouest envoyer mail a renns.acceuil@st.com
+
+
+Liste de petit projet a faire
+boite de rangeement de composant
+refaire la library altium
+faires des clip pour les boite de rangement
+trouver une nouvelle boite ELE
+
