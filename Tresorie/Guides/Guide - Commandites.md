@@ -1,3 +1,5 @@
+
+---
 ## Introduction
 
 Ce guide vise à expliquer l’intérêt de rechercher des commanditaires et comment en obtenir. Il contiendra des exemples de courriels, des méthodologies pour approcher les entreprises, ainsi que les démarches administratives à suivre dans le cadre d’une commandite monétaire ou matérielle.

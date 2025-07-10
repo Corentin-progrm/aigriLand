@@ -1,3 +1,5 @@
+
+---
 ## Introduction
 
 Ce guide a pour but de vous faire découvrir le matériel de soudure, de comprendre théoriquement ce qu’est une soudure, puis de vous apprendre comment vous exercer de manière pratique.
@@ -15,9 +17,9 @@ Nous sommes conscients que certains membres sortant du cégep n’ont probableme
 
 **Historique de version**
 
-|Version|Auteur|Date|Description|
-|---|---|---|---|
-|1|Corentin Coueron|2025-07-10|Version initiale|
+| Version | Auteur           | Date       | Description      |
+| ------- | ---------------- | ---------- | ---------------- |
+| 1       | Corentin Coueron | 2025-07-10 | Version initiale |
 
 **Matériel requis :**
 

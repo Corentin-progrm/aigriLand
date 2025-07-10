@@ -1,5 +1,6 @@
 # Titre : Guide - Nom du Guide
 
+---
 ## Introduction
 
 Explication du contexte dans lequel le guide va être utilisé.
