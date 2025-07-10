@@ -1,3 +1,8 @@
+
+---
+## Introduction
+Ce manuel a été créé dans l’idée d’expliquer brièvement aux nouveaux membres du club les différentes règles que nous essayons de suivre pour bien vivre ensemble en communauté. Il a aussi pour but de présenter le mode de fonctionnement de notre club, ainsi que les différents avantages à en faire partie.
+
 **Sommaire**
 
 - [[#Nos politiques internes]]
