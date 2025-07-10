@@ -4,6 +4,14 @@
 
 Ce document fait partie d'une série de notes sur les bases de l’électronique. L’objectif est d’expliquer de manière claire et structurée les composants essentiels, leur rôle, leur fonctionnement, et comment les utiliser dans des projets concrets. 
 
+**Sommaire**
+
+- [[#Partie théorique]]
+- [[#Parametres a regarder]]
+- [[#Exemple pratique]]
+- [[#Intégration dans Altium Designer]]
+- [[#Ressources utiles]]
+
 ---
 ## Partie théorique
 
@@ -80,4 +88,4 @@ $$
 - [Code des couleurs des résistances (outil)](https://www.digikey.fr/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
 
 ---
-**Nom de l’auteur – Date**
+**Auteur – Date**

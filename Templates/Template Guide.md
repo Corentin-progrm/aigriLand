@@ -4,6 +4,14 @@
 
 Explication du contexte dans lequel le guide va être utilisé.
 
+**Sommaire**
+
+- [[#Étape 1]]
+- [[#Étape 2]]
+- [[#Étape 3]]
+- [[#Étape 4]]
+- [[#Conclusion]]
+- [[#Ressources utiles]]]
 
 **Historique de Version**
 
@@ -103,4 +111,4 @@ Enfin, une fois votre guide terminé, **n’oubliez pas de faire un push vers le
 - [Code des couleurs des résistances (outil)](https://www.digikey.fr/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
 
 ---
-**Nom de l’auteur – Date**
+**Auteur – Date**
