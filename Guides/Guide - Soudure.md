@@ -32,16 +32,16 @@ Nous sommes conscients que certains membres sortant du cégep n’ont probableme
 
 Vous trouverez ici la liste des outils que nous utilisons majoritairement pour faire de la soudure, avec une courte explication de leur utilité.
 
-|Nom|Description|Digikey Part Number|
-|---|---|---|
-|Poste à souder|Appareil qui permet de chauffer le fer à souder à la température souhaitée|FM203-01|
-|Fer à souder|Tige métallique utilisée pour faire fondre l’étain et souder les composants|T0058770715|
-|Pince|Outil permettant de manipuler les composants avec précision||
-|Laiton (brass coil)|Laine de laiton utilisée pour nettoyer la panne du fer à souder|AOREF98B|
-|Étain|Métal utilisé pour souder les composants entre eux||
-|Flux|Produit chimique facilitant la soudure en évitant l’oxydation||
-|Alcool 99,9 %|Alcool presque pur utilisé pour nettoyer les cartes après soudure||
-|Pâte à braser|Mélange d’étain et de flux sous forme de pâte, utilisé pour la soudure par refusion||
+| Nom                 | Description                                                                         | Digikey Part Number |
+| ------------------- | ----------------------------------------------------------------------------------- | ------------------- |
+| Poste à souder      | Appareil qui permet de chauffer le fer à souder à la température souhaitée          | FM203-01            |
+| Fer à souder        | Tige métallique utilisée pour faire fondre l’étain et souder les composants         | T0058770715         |
+| Pince               | Outil permettant de manipuler les composants avec précision                         |                     |
+| Laiton (brass coil) | Laine de laiton utilisée pour nettoyer la panne du fer à souder                     | AOREF98B            |
+| Étain               | Métal utilisé pour souder les composants entre eux                                  |                     |
+| Flux                | Produit chimique facilitant la soudure en évitant l’oxydation                       |                     |
+| Alcool 99,9 %       | Alcool presque pur utilisé pour nettoyer les cartes après soudure                   |                     |
+| Pâte à braser       | Mélange d’étain et de flux sous forme de pâte, utilisé pour la soudure par refusion |                     |
 
 > Le numéro Digikey est fourni à titre d’illustration.
 
