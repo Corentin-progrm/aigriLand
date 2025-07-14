@@ -22,3 +22,5 @@ refaire la library altium
 faires des clip pour les boite de rangement
 trouver une nouvelle boite ELE
 essayer d,avoir une commandite de hakko pour aheter ca FX300-03
+imprimer un porte cable pour les cable hdmi et alimentation et autre
+
