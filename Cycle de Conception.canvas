@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"a931c9421a8491f6","type":"text","text":"Nouveau Projet","x":-140,"y":-100,"width":180,"height":60}
+		{"id":"a931c9421a8491f6","type":"text","text":"Nouveau Projet","x":-140,"y":-100,"width":180,"height":60},
+		{"id":"905cee092c02a51d","x":-175,"y":0,"width":250,"height":60,"type":"text","text":"Copie du Template Folder"},
+		{"id":"74e3439d6a223039","x":-175,"y":121,"width":215,"height":60,"type":"text","text":"Pxxx - Specifications"}
 	],
 	"edges":[]
 }
