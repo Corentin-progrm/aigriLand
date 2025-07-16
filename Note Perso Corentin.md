@@ -13,7 +13,7 @@ Rousset : reponse mais pas reussi a avoir le service come essaer de rappler
 toulon : pas de num
 sophia antipolis : lec mec a la recption est un con et il faut envoyer u mail avec ce qu<on veux a l4adresse mail sophia.reception@st.com
 Paris : envoyer un mail a reception.paris@st.com
-grand ouest envoyer mail a renns.acceuil@st.com
+grand ouest envoyer mail a rennes.acceuil@st.com
 
 
 Liste de petit projet a faire
