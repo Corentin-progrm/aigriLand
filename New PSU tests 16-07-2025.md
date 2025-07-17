@@ -19,6 +19,7 @@ Connecter le board Arduino programmer avec le programme de BLHeli (le notre est 
 
 Il faut connecter le fils de PWM de l'esc avec le arduino: le gnd (noir) va sur le gnd de l'arduino, le signal (blanc) sur la pin 11 de l'arduino
 
+
 dans blheli suite:
 
 sélectionner make interface
@@ -42,6 +43,36 @@ sélectionner 4wArduino_Nano__16_PD3PD2v20005.hex
 sélectionner yes
 ![[Pasted image 20250716234414.png]]
 
+Dans Select ATMEL/Silab interface, sélectionner l'option D
+![[Pasted image 20250716234827.png]]
+
+
 Retourner dans esc setup et sélectionner le bon com port
 ![[Pasted image 20250716234432.png]]
+
+
+cliquer sur read setup
+![[Pasted image 20250716234956.png]]
+
+Le setup est affiché
+![[Pasted image 20250716235112.png]]
+
+Charger le fichier de programmation avec ESC Setup > Read Setup from ini file et sélectionner le fichier de programmation
+![[Pasted image 20250717193308.png]]
+
+Ensuite cliquer sur "Write Setup"
+![[Pasted image 20250717193331.png]]
+
+Le message suivant devrait être affiché
+![[Pasted image 20250717193348.png]]
+
+
+ensuite vous pouvez trqnsferer le fichier de prog dqns l'esc 
+[[ESC_2025_07_17.ini]]
+
+
+okay la premiere partie est surtout pour si le bord arduino nqu'on utilise n'est pS PROGRQMMER? ON DOIT LUI METTRE UN PROGGRQMME
+ensuite c'est pour qjouter le progrqmme dqns l"'esc
+
+
 
