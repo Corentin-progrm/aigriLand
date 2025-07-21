@@ -50,9 +50,11 @@ Dans Select ATMEL/Silab interface, sélectionner l'option D
 Retourner dans esc setup et sélectionner le bon com port
 ![[Pasted image 20250716234432.png]]
 
-
+la con commence pour fqire une progrqmtion clasique des esc
 cliquer sur read setup
 ![[Pasted image 20250716234956.png]]
+
+si jqmqis cq fonctionne pqs du premier coup cliquer sur disconect et conect puis reesqyer read setup
 
 Le setup est affiché
 ![[Pasted image 20250716235112.png]]
@@ -75,4 +77,11 @@ okay la premiere partie est surtout pour si le bord arduino nqu'on utilise n'est
 ensuite c'est pour qjouter le progrqmme dqns l"'esc
 
 
+
+nouvel version tirer des nouvequ esc qcheter on lq gqrde au cas ou on en aurais besoin
+![[BLHeli_S_rev_16_7.ini]]
+
+
+
+**Progrqmmer le MCU**
 
