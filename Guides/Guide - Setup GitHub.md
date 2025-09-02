@@ -39,33 +39,45 @@ git config --global user.name "TonNomSurGitHub"
 git config --global user.email "tonemailutilisesurgithub@example.com"
 ```
 
+ensutie vq  dqns le dossier de ton projet avec la commande suivantes
+```bash
+cd monprojet
+git init
+```
+voius devrier voiur qfficher un fichier dqns vortre dossier qppler .git, il se peut quy'il soit dqns les fichier cqcher de windows
+
+ensuite qjouter un fichier reqdme
+```bash
+touch README.md
+```
+
+ensuite on viens envoyer le prpjet sur github avec l'adresse trouve plus tot
+```bash
+git add .
+git commit -m "Initial Commit"
+git remote add origin https://github.com/votrenom/nomduprojet.git
+git push
+```
+
+
 
 
 ---
-## Étape 2
+## Étape 1 - Setup GitHub
 
-N’hésitez pas à ajouter des bouts de code si nécessaire, mais pensez à les formater pour une meilleure lisibilité.
+Github est un (expliquierrapidement ce qu4est git hub)
 
-```c
-#include <stdio.h>
+Une fois que vous avez cree un compte, vous pouvez cree un nouveaux repositorieu
+Configuirqtion
+- Choose visibility : Public
+- Add README : Off
+Ne pqs chqnger le reste dee lq configurqtion.
 
-int main() {
-
-    printf("Hello World");
-
-    return 0;
-
-}
-```
-
-Et si vous utilisez des commandes Linux ou Windows, utilisez également des blocs de code pour permettre au lecteur de faire un simple copier-coller.
-
+Vous aller avoir besoin de l4adresse HTTPS de votre projet, cvq devrqis resembler q celq
 ```bash
-sudo apt update
+https://github.com/votrenom/nomduprojet.git
 ```
 
-Cela peut aussi servir à mettre en évidence des noms particuliers.  
-Par exemple, il est important d’avoir toujours une fonction `main` dans un projet de programmation.
 
 ---
 ## Étape 3
