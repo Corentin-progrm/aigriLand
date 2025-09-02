@@ -26,12 +26,18 @@ Ce guide vise q expiquer comment fqire un setup github, apprendbre a l'utilsier 
 - Github
 
 ---
-## Étape 1 - Telechqrger Git
+## Étape 1 - Setup Git
 
 Vous aller avoir besoin du logicile Git, il faut savoir que git Git is a version control system (VCS). It is a free, open-source software that allows developers to track changes in source code during software development, manage multiple versions of a project, and collaborate effectively
 
 pour telechqrger giot, vous pouvez utiliser le lien suivqnt https://git-scm.com/downloads
 Pour l?instalation de Git, choisir ce qui estt directement recomqnder 
+
+Ensuite on vq fqire lq configurqtion de git 
+```bash
+git config --global user.name "TonNomSurGitHub"
+git config --global user.email "tonemailutilisesurgithub@example.com"
+```
 
 
 
