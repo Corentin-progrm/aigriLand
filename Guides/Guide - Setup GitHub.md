@@ -26,7 +26,23 @@ Ce guide vise q expiquer comment fqire un setup github, apprendbre a l'utilsier 
 - Github
 
 ---
-## Étape 1 - Setup Git
+## Étape 1 - Setup GitHub
+
+Github est un (expliquierrapidement ce qu4est git hub)
+
+Une fois que vous avez cree un compte, vous pouvez cree un nouveaux repositorieu
+Configuirqtion
+- Choose visibility : Public
+- Add README : Off
+Ne pqs chqnger le reste dee lq configurqtion.
+
+Vous aller avoir besoin de l4adresse HTTPS de votre projet, cvq devrqis resembler q celq
+```bash
+https://github.com/votrenom/nomduprojet.git
+```
+
+---
+## Étape 2 - Setup Git
 
 Vous aller avoir besoin du logicile Git, il faut savoir que git Git is a version control system (VCS). It is a free, open-source software that allows developers to track changes in source code during software development, manage multiple versions of a project, and collaborate effectively
 
@@ -56,54 +72,60 @@ ensuite on viens envoyer le prpjet sur github avec l'adresse trouve plus tot
 git add .
 git commit -m "Initial Commit"
 git remote add origin https://github.com/votrenom/nomduprojet.git
+git branch -M main
+git push -u origin main
+```
+
+Vous pouvez ensuite qller verifier que sur votre github vous avez bine voptre proejt avec le fichoer readme qui a bien ete ajouter.
+
+---
+## Commandes classique
+
+**Commande Versionage**
+```bash
+git add .
+git commit -m "nomducommit"
 git push
 ```
 
 
 
-
 ---
-## Étape 1 - Setup GitHub
+## Probleme Classique
 
-Github est un (expliquierrapidement ce qu4est git hub)
+**Ajout de fichier .vs**
+Si vous avex un projet avec visdual studio il est possible que vous ayerz des fichier avec un .vs
+Pour egler ce genre de probleme il faut ignorer les fichiers 
 
-Une fois que vous avez cree un compte, vous pouvez cree un nouveaux repositorieu
-Configuirqtion
-- Choose visibility : Public
-- Add README : Off
-Ne pqs chqnger le reste dee lq configurqtion.
-
-Vous aller avoir besoin de l4adresse HTTPS de votre projet, cvq devrqis resembler q celq
+Exemple de probleme
 ```bash
-https://github.com/votrenom/nomduprojet.git
+$ git add .
+error: open("P002-Finance-Software/.vs/P002-Finance-Software/FileContentIndex/8677dbd9-7e80-424f-b092-052ffe7e4bbb.vsidx"): Permission denied
+error: unable to index file 'P002-Finance-Software/.vs/P002-Finance-Software/FileContentIndex/8677dbd9-7e80-424f-b092-052ffe7e4bbb.vsidx'
+fatal: adding files failed
 ```
 
+vous pouvez faire ca pour fixer votre projet
 
----
-## Étape 3
+```bash
+cd votreprojet
+touch .gitignore
+```
 
-Lors de vos expérimentations, n’hésitez pas à inclure les calculs nécessaires : résistance de LED, diviseur de tension dans un schéma, puissance d’un moteur, etc.
+ouvre et ajoute
+```bash
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
+```
 
-$$
-
-R = \frac{U - V_{LED}}{I}
-
-$$
-
-Si vous souhaitez faire référence à un autre fichier dans vos notes, vous pouvez insérer un lien Obsidian comme ceci :  
-
-[[Nom du fichier de référence]]
-
----
-## Étape 4
-
-Vous pouvez également faire des listes ou des démarches étape par étape avec un format lisible.
-
-Dans **Apple** :
-- Réglages > Informations Système > Supprimer l’OS.
-- Ensuite, soyez heureux.
-
-Voilà comment faire une bonne action.
+3. Sauvegarde `.gitignore`.
+4. Supprime les fichiers déjà indexés par Git (s’ils ont été ajoutés avant) :
+```bash
+git rm -r --cached .vs
+```
 
 ---
 ## Conclusion
