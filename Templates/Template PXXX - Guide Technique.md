@@ -1,4 +1,0 @@
-# Titre : PXXX - Nom
-
----
-

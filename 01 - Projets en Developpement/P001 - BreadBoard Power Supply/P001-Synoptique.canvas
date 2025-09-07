@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"e1a20ad4eab8e336","type":"text","text":"Switch 5V-3V3","x":159,"y":340,"width":135,"height":80,"color":"5"},
+		{"id":"419b2d415f54ba92","type":"text","text":"Switch 5V-3V3","x":-217,"y":340,"width":135,"height":80,"color":"5"},
+		{"id":"b34aed10e0595cf5","type":"text","text":"Convertisseur 5V to 3V3","x":-40,"y":240,"width":167,"height":100,"color":"1"},
+		{"id":"073542b3bf505b5f","type":"text","text":"USB-C","x":-204,"y":111,"width":110,"height":60,"color":"4"},
+		{"id":"e230f113481b2cf4","type":"text","text":"CONN 2 pins","x":172,"y":111,"width":110,"height":60,"color":"4"},
+		{"id":"ac32639ad85eeefc","type":"text","text":"Pin de connexion breadboard","x":-228,"y":530,"width":157,"height":100,"color":"4"},
+		{"id":"88a56e3920f12d31","type":"text","text":"Pin de connexion breadboard","x":148,"y":530,"width":157,"height":100,"color":"4"}
+	],
+	"edges":[
+		{"id":"30f52f3061a35da7","fromNode":"b34aed10e0595cf5","fromSide":"left","toNode":"419b2d415f54ba92","toSide":"top","label":"5V & 3V3"},
+		{"id":"d48172fff311b69a","fromNode":"b34aed10e0595cf5","fromSide":"right","toNode":"e1a20ad4eab8e336","toSide":"top","label":"5V & 3V3"},
+		{"id":"44d65a0b5f00c5ad","fromNode":"419b2d415f54ba92","fromSide":"bottom","toNode":"ac32639ad85eeefc","toSide":"top","label":"5V ou 3V3"},
+		{"id":"d871af99099f37b1","fromNode":"e1a20ad4eab8e336","fromSide":"bottom","toNode":"88a56e3920f12d31","toSide":"top","label":"5V ou 3V3"},
+		{"id":"6780553b47ce0aea","fromNode":"073542b3bf505b5f","fromSide":"bottom","toNode":"b34aed10e0595cf5","toSide":"top","label":"5V"},
+		{"id":"6f880190556bd842","fromNode":"e230f113481b2cf4","fromSide":"bottom","toNode":"b34aed10e0595cf5","toSide":"top","label":"5V"}
+	]
+}

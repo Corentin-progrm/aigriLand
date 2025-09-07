@@ -1,0 +1,87 @@
+
+---
+## Introduction
+
+Cette documentation vise à retracer le contexte de création de ce projet, mais aussi à fournir des explications techniques sur l'intégration mécanique ainsi que sur certaines fonctions complexes nécessitant plus de précision. Évidemment, cette documentation est en lien avec le fichier Excel associé à ce projet.
+
+**Sommaire**
+
+- [[#Contexte & Besoin]]
+- [[#Fonctions principales]]
+- [[#Integration mecanique]]
+- [[#BOM & Prix]]
+- [[#Conclusion]]
+- [[#Ressources utiles]]
+
+**Historique de version**
+
+|Version|Auteur|Date|Description|
+|---|---|---|---|
+|1.0|Corentin Coueron|2025-08-05|Version initiale|
+
+---
+## Contexte & Besoin
+
+Le projet P001 – BreadBoard Power Supply est né de la volonté de créer un premier projet simple afin de développer les différents modèles (templates) nécessaires à la création de projets. Il a également pour objectif de servir de projet de base pour tous les nouveaux membres, leur permettant d’apprendre à créer leur propre projet sur Altium, tout en découvrant les bonnes pratiques d’un développement structuré et propre.
+
+L’idée était de concevoir un projet à la fois simple à assembler et à souder pour les nouveaux membres, mais aussi utile.
+
+Nous avons donc conçu une carte pouvant se fixer sur une breadboard standard, afin de proposer une solution simple pour l’alimentation. La carte est alimentée en USB-C et permet de fournir soit du 3,3 V, soit du 5 V.
+
+
+---
+## Synoptique
+
+Ci-dessous, vous trouverez le synoptique du projet, représentant à haut niveau ses fonctions principales.
+
+[[P001-Synoptique.canvas|P001-Synoptique]]
+![[Pasted image 20250807132628.png]]
+
+
+---
+## Fonctions principales
+
+Ci-dessous, vous trouverez plus de détails sur les fonctions principales du projet :
+
+- **Convertisseur de tension**  
+    Le convertisseur de tension permet de transformer une tension fixe de 5 V en une tension fixe de 3,3 V. Le convertisseur utilisé peut fournir un courant de sortie élevé (jusqu’à 1 A), afin de répondre aux besoins des utilisateurs.
+    
+- **Sélecteur de tension**  
+    Les sélecteurs de tension permettent de basculer facilement entre deux niveaux d'alimentation (5 V ou 3,3 V) pour chacune des deux lignes d'alimentation de la breadboard.
+
+
+---
+## Integration mecanique
+
+
+
+
+
+---
+## BOM & Prix
+
+Ci-dessous, vous trouverez une liste des composants principaux du projet, ainsi que leur prix, afin d’estimer le coût total du projet.  
+Dans le but de réduire les coûts, les quantités indiquées sont basées sur une production de 10 cartes.
+
+| Composantes     | Quantite | Supplier | Manufacturer Part Number | Prix      |
+| --------------- | -------- | -------- | ------------------------ | --------- |
+| PCB             | 10       | JLCPCB   |                          | ??        |
+| Regulateur      | 10       | Digikey  | AP62300TWU-7             | 3.22$     |
+| Header 2x3      | 20       | Digikey  | M20-9980346              | 5.92$     |
+| Switch          | 20       | Digikey  | SLW-1678105-6A-N-D       | 17.82$    |
+| USB-C           | 10       | Digikey  | USB4105-GF-A             | 9.48$     |
+| Header 1x2      | 10       | Digikey  | 691137710002             | 4.70$     |
+| **Total/carte** |          |          |                          | **4.11$** |
+
+---
+## Conclusion
+
+Ce projet, qui a pour but de développer les compétences en conception de cartes électroniques chez les nouveaux membres, est volontairement simple à mettre en place et peu coûteux. Il permet aux nouveaux membres de réaliser leur première carte électronique.
+
+---
+## Ressources utiles
+
+- [[P001-Synoptique.canvas|P001-Synoptique]]
+
+---
+**Corentin Coueron – 2025-08-06**

@@ -1,4 +1,3 @@
-# Titre : Fondamentaux - Nom 
 
 ---
 ## Introduction
@@ -89,4 +88,4 @@ $$
 - [Code des couleurs des résistances (outil)](https://www.digikey.fr/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
 
 ---
-**Auteur – Date**
+**Auteur : [Ton Nom] – [Date]**
