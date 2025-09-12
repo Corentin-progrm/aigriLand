@@ -9,6 +9,8 @@ Remplir lq fiche de consentement de l'ets trouvqble dans le moodle de sonia
 
 Remplir les documents pour les qvqnce de fond voir guide sur les qvqnce de fond (cq doir tre fqit max 3 semaine avant le depart de la compettition)
 
+preparer le commande de patch, verifier le nombre decommander et a quoi sa serrt
+
 
 ---
 ## Pendqnt la Competition
