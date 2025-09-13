@@ -32,15 +32,15 @@ Contrairement à une ampoule, une LED **ne supporte pas un courant trop élevé*
 
 Liste des paramètres importants à prendre en compte pour choisir une LED.
 
-| Nom du paramètre      | Description                                                  | Valeur(s) typique(s)     |
-|-----------------------|--------------------------------------------------------------|---------------------------|
-| Couleur / type        | Détermine la longueur d’onde / tension directe               | Rouge, Verte, Bleue, RGB  |
-| Tension directe $V_f$ | Tension requise pour s’allumer                               | 1.8 V – 3.3 V             |
-| Courant nominal       | Courant recommandé pour une bonne luminosité                | 5 mA – 20 mA              |
-| Intensité lumineuse   | Luminosité en mcd (millicandela)                             | 100 – 2000 mcd            |
-| Angle de vue          | Largeur du faisceau lumineux                                | 20° – 120°                |
-| Polarité              | Composant polarisé, attention à l'orientation               | Oui                       |
-| Package / Case        | Format physique                                              | CMS (0603, 0805), 5 mm, etc. |
+| Nom du paramètre      | Description                                    | Valeur(s) typique(s)         |
+| --------------------- | ---------------------------------------------- | ---------------------------- |
+| Couleur / type        | Détermine la longueur d’onde / tension directe | Rouge, Verte, Bleue, RGB     |
+| Tension directe $V_f$ | Tension requise pour s’allumer                 | 1.8 V – 3.3 V                |
+| Courant nominal       | Courant recommandé pour une bonne luminosité   | 5 mA – 20 mA                 |
+| Intensité lumineuse   | Luminosité en mcd (millicandela)               | 100 – 2000 mcd               |
+| Angle de vue          | Largeur du faisceau lumineux                   | 20° – 120°                   |
+| Polarité              | Composant polarisé, attention à l'orientation  | Oui                          |
+| Package / Case        | Format physique                                | CMS (0603, 0805), 5 mm, etc. |
 
 ---
 
