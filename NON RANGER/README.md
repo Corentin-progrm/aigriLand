@@ -14,3 +14,7 @@
         Template - Fondamentaux
 03 - Images
 
+
+faire un tableau de tout les vieux pcb qu'on a dans un cadre avec le no, en dessous et a quoi il on servis
+faire des petit porte cle en 3d print de sonia
+
