@@ -54,6 +54,18 @@ Evidmeent les dqte ou les evement se pqsse sont volontqirment lqrge cqr elle peu
 > Vous pouvez aussi ajouter des notes pour apporter plus de précision.
 
 ---
+## Journee de recrutement
+
+en septemebre 2025 nous aonvs fairt des journee de recrutement avec me cmub notement durant les juex de genie et la joournee des club de l'ets
+pour le jeux qui nosuo qvnt fqire, nous qvons fqit : 
+mis un cqrton sur la tete d'une perosnne, ensuite un autre personne fait le dvl et lui permet d'avancer, une autre personne fait l'imu et lui permet de tourne et uen autre personne fait la pince et les torpille.
+donc n fait un parcours dans lequel il y a un slalome, des cible pour les torpille, une table avec les objet dessur et le dropper
+on peut mesurerr le temps que les personne on mis pour realiser le parcours type de notre competition
+
+[on peut rajouter une petit shemas]
+
+
+---
 ## Étape 2
 
 N’hésitez pas à ajouter des bouts de code si nécessaire, mais pensez à les formater pour une meilleure lisibilité.
