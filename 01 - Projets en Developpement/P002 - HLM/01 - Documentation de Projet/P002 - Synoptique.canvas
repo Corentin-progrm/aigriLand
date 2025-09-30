@@ -10,12 +10,9 @@
 		{"id":"bafbecf23c5fe61a","type":"text","text":"Moteur Board","x":-540,"y":726,"width":220,"height":50,"color":"5"},
 		{"id":"dcd892964c803ba2","type":"text","text":"Moteur Board","x":-540,"y":655,"width":220,"height":50,"color":"5"},
 		{"id":"3c792c6ec2bdbe75","type":"text","text":"Moteur Board","x":-540,"y":580,"width":220,"height":50,"color":"5"},
-		{"id":"b81ca2192c0c554e","type":"text","text":"","x":-820,"y":505,"width":220,"height":50,"color":"5"},
-		{"id":"73c6c5e7fac115cb","type":"text","text":"","x":-820,"y":434,"width":220,"height":50,"color":"5"},
-		{"id":"ffc8fa4ff344d8ad","type":"text","text":"","x":-540,"y":505,"width":220,"height":50,"color":"5"},
-		{"id":"6ea92ce594c2f3f5","type":"text","text":"","x":-540,"y":434,"width":220,"height":50,"color":"5"},
-		{"id":"3c51bd75672fa79d","type":"text","text":"","x":-540,"y":359,"width":220,"height":50,"color":"5"},
-		{"id":"a41d20d9eef9bdf9","type":"text","text":"Leds Board","x":-820,"y":200,"width":500,"height":50,"color":"5"}
+		{"id":"b81ca2192c0c554e","type":"text","text":"Safety Board","x":-820,"y":505,"width":220,"height":50,"color":"5"},
+		{"id":"a41d20d9eef9bdf9","type":"text","text":"Leds Board","x":-820,"y":200,"width":500,"height":50,"color":"5"},
+		{"id":"73c6c5e7fac115cb","type":"text","text":"MCU Board","x":-540,"y":505,"width":220,"height":50,"color":"5"}
 	],
 	"edges":[]
 }

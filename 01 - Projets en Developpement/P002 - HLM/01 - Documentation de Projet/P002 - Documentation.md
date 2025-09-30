@@ -31,8 +31,10 @@ Cette documentation constitue le cahier des charges général du projet HLM. Nou
 
 Ci-dessous, vous trouverez le synoptique du projet, représentant à haut niveau ses fonctions principales.
 
-[[P001-Synoptique.canvas|P001-Synoptique]]
-![[Pasted image 20250807132628.png]]
+Attention ceci n'a pas encore ete valider par l'equipe
+
+![[Pasted image 20250929210931.png]]
+
 
 
 ---
