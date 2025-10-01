@@ -34,6 +34,7 @@ Corentin Couëron
 | flexkote           | ozer cooting ,ini                      | Dwayneh@flexkote.ca                                                                                                          | MEC        | en     |
 | blue trail         | connecteur zqtherproof 30pucent        | [sales@bluetrailengineering.com](mailto:sales@bluetrailengineering.com) <br>Damon McMillan<br><br>Blue Trail Engineering LLC | ELE        | en     |
 | fila 3d            | donner du fila,ent 3d                  | ### info@fila3d.ca                                                                                                           | MEC        | fr     |
+| flexkot            | power coating le vrais mec             | robert@flexkote.ca                                                                                                           | mec        | en     |
 
 **fila 3D**
 Vos filaments 3D nous ont permis de soutenir l’intégralité de l’électronique de notre nouveau sous-marin, mais également de créer des poignées solides et personnalisées pour faciliter le transport de celui-ci.
