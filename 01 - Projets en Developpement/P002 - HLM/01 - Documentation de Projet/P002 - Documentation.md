@@ -35,6 +35,7 @@ Attention ceci n'a pas encore ete valider par l'equipe
 
 ![[Pasted image 20250929210931.png]]
 
+dire qu'on fait ca en sous modeul conencter avec des connecteur
 
 
 ---
@@ -42,11 +43,7 @@ Attention ceci n'a pas encore ete valider par l'equipe
 
 Ci-dessous, vous trouverez plus de détails sur les fonctions principales du projet :
 
-- **Convertisseur de tension**  
-    Le convertisseur de tension permet de transformer une tension fixe de 5 V en une tension fixe de 3,3 V. Le convertisseur utilisé peut fournir un courant de sortie élevé (jusqu’à 1 A), afin de répondre aux besoins des utilisateurs.
-    
-- **Sélecteur de tension**  
-    Les sélecteurs de tension permettent de basculer facilement entre deux niveaux d'alimentation (5 V ou 3,3 V) pour chacune des deux lignes d'alimentation de la breadboard.
+- 
 
 
 ---
@@ -62,15 +59,12 @@ Ci-dessous, vous trouverez plus de détails sur les fonctions principales du pro
 Ci-dessous, vous trouverez une liste des composants principaux du projet, ainsi que leur prix, afin d’estimer le coût total du projet.  
 Dans le but de réduire les coûts, les quantités indiquées sont basées sur une production de 10 cartes.
 
-| Composantes     | Quantite | Supplier | Manufacturer Part Number | Prix      |
-| --------------- | -------- | -------- | ------------------------ | --------- |
-| PCB             | 10       | JLCPCB   |                          | ??        |
-| Regulateur      | 10       | Digikey  | AP62300TWU-7             | 3.22$     |
-| Header 2x3      | 20       | Digikey  | M20-9980346              | 5.92$     |
-| Switch          | 20       | Digikey  | SLW-1678105-6A-N-D       | 17.82$    |
-| USB-C           | 10       | Digikey  | USB4105-GF-A             | 9.48$     |
-| Header 1x2      | 10       | Digikey  | 691137710002             | 4.70$     |
-| **Total/carte** |          |          |                          | **4.11$** |
+| Composantes     | Quantite | Supplier | Manufacturer Part Number | Prix |
+| --------------- | -------- | -------- | ------------------------ | ---- |
+|                 |          |          |                          |      |
+|                 |          |          |                          |      |
+|                 |          |          |                          |      |
+| **Total/carte** |          |          |                          |      |
 
 ---
 ## Conclusion
