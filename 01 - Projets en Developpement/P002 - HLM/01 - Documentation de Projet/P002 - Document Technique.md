@@ -1,3 +1,29 @@
+## Introduction
+
+Ce document vise à ajouter plusieurs précisions techniques sur les différentes fonctions du projet. Il peut s’agir d’explications plus détaillées sur ce que l’on souhaite obtenir, ou encore d’éclaircissements techniques sur le fonctionnement de certaines fonctions.
+
+**Sommaire**
+
+- [[#Contexte & Besoin]]
+- [[#Fonctions principales]]
+- [[#Integration mecanique]]
+- [[#BOM & Prix]]
+- [[#Conclusion]]
+- [[#Ressources utiles]]
+
+**Historique de version**
+
+| Version | Auteur           | Date       | Description                      |
+| ------- | ---------------- | ---------- | -------------------------------- |
+| 1.0     | Corentin Coueron | 2025-09-29 | Version initiale                 |
+
+---
+
+
+
+
+
+detaille pour les autre sous projet pas encore fait 
 
 |         |                                                                                                                                  |             |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------- |

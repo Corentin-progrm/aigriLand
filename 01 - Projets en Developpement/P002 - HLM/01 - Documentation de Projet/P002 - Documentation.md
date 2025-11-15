@@ -15,9 +15,10 @@ Cette documentation vise à retracer le contexte de création de ce projet, mais
 
 **Historique de version**
 
-| Version | Auteur           | Date       | Description      |
-| ------- | ---------------- | ---------- | ---------------- |
-| 1.0     | Corentin Coueron | 2025-09-29 | Version initiale |
+| Version | Auteur           | Date       | Description                      |
+| ------- | ---------------- | ---------- | -------------------------------- |
+| 1.0     | Corentin Coueron | 2025-09-29 | Version initiale                 |
+| 1.1     | Corentin Coueron | 2025-11-15 | Modifications Document Technique |
 
 ---
 ## Contexte & Besoin
@@ -43,7 +44,7 @@ dire qu'on fait ca en sous modeul conencter avec des connecteur
 
 Ci-dessous, vous trouverez plus de détails sur les fonctions principales du projet :
 
-- 
+- on va y mettre les sous projet je pense
 
 
 ---
